@@ -10,7 +10,7 @@ assignees: ''
 ### Summary:
 What is this task about? Briefly describe the objective.
 
-### Steps:
+### Checklist:
 1. Describe step 1
 2. Describe step 2
 3. (Add more steps as needed)
@@ -20,6 +20,3 @@ List the file that you will use
 
 ### Assigned to:
 - @chanbinna
-
-### 📌 Related To:
-(Optional) Mention any related Issues or Pull Requests
