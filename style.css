@@ -7,7 +7,6 @@
 
 * {
     font-family: "Roboto", sans-serif;
-    font-optical-sizing: auto;
     font-style: normal;
     font-variation-settings:
         "wdth" 100;
@@ -314,7 +313,7 @@ footer {
     padding: 1cm;
     font-size: 14pt;
     background-color: orange;
-    color: color(display-p3 0.2 0.4 0.6);
+    color: #336699;
 }
 
 @media (max-width: 768px) {
