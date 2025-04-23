@@ -24,7 +24,6 @@ body {
 
 /* Container that all contains heading, nav, main */
 .container {
-    margin: auto;
     margin: 50px auto 40px auto;
     padding: 60px;
     width: 75%;
