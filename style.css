@@ -32,6 +32,7 @@ body {
     border-radius: 20px;
     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
     overflow: hidden;
+    max-width: 1200px;
 }
 
 /* header css */
@@ -214,6 +215,11 @@ img {
     margin: auto;
 }
 
+video {
+    max-width: 40%;
+    min-width: 400px;
+}
+
 
 /* this part we change some forms */
 form {
@@ -313,7 +319,8 @@ footer {
     padding: 1cm;
     font-size: 14pt;
     background-color: orange;
-    color: #336699;
+    color: color(srgb 0.2 0.4 0.6 / 0.9);
+    min-width: 300px;
 }
 
 @media (max-width: 768px) {
